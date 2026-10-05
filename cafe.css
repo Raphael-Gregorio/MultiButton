@@ -1,0 +1,136 @@
+* {
+    background-color: rgb(78, 9, 9);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+h1 {
+    background-color: rgb(175, 28, 28);
+    color: black;
+    text-align: center;
+    font-size: 80px;
+
+}
+#logo {
+    margin-left: 1250px;
+    width: 85px;
+    height: 85px;
+    margin-top: -8px;
+
+  
+
+
+}
+
+button {
+    color: black;
+    font-size: 25px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    border-color: chocolate;
+    
+}
+
+h2 {
+    background-color: brown;
+    color: rgba(158, 113, 113, 0.979);
+    text-align: center;
+}
+
+#a2 {
+    color: chocolate;
+    font-size: 30px;
+    margin-left: 1000px;
+
+}
+
+#a1 {
+
+    color: rgb(150, 93, 23);
+    font-size: 40px;
+
+}
+
+a {
+
+    color: rgb(150, 93, 23);
+    font-size: 40px;
+
+
+
+}
+
+nav {
+    text-align: center;
+    word-spacing: 30px;
+}
+
+img {
+    width: 325px;
+    height: 500px;
+    display: inline-block;
+
+
+
+}
+
+#img1 {
+    width: 325px;
+    height: 500px;
+    display: inline-block;
+
+}
+
+#img2 {
+    width: 325px;
+    height: 500px;
+    display: inline-block;
+
+}
+
+#img3 {
+    width: 325px;
+    height: 500px;
+    display: inline-block;
+}
+
+article {
+
+    font-size: x-large;
+    font-weight: bold;
+    color: chocolate;
+}
+
+ul {
+    color: chocolate;
+    font-size: 25px;
+}
+
+p {
+    color: rgb(150, 93, 23);
+    font-size: 30px;
+    font-style: oblique;
+}
+
+main {
+    color: chocolate;
+    margin-left: 500px;
+    margin-top: -330px;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+#p1 {
+    color: chocolate;
+    font-size: 30px;
+    font-style: oblique;
+    text-align: right;
+}
+footer {
+    word-spacing: 30px;
+}

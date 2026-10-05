@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+a {
+    color: rgb(230, 82, 24);
+    font-style: italic;
+    font-size: 30px;
+
+}
+
+a:hover {
+
+    color: blueviolet;
+    font-style: normal;
+    font-size: 50px;
+
+
+
+}
+p {
+    color: brown;
+    font-style: italic;
+}
+p:hover {
+    color: blue;
+    font-style: normal;
+}
+input:checked {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}

@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+#pai {
+    background-color: red;
+    width: 700px;
+    height: 550px;
+    position: static;
+    margin-top: 50px;
+}
+
+#filho {
+    background-color: black;
+    width: 600;
+    height: 450px;
+    position: sticky;
+    margin-left: 150px;
+
+}
+
+#neto {
+    background-color: blue;
+    width: 500px;
+    height: 350px;
+    position: fixed;
+    margin-left: 150px;
+
+
+}
+
+#bisneto {
+    background-color: green;
+    width: 400px;
+    height: 250px;
+    position: absolute;
+    margin-left: 100px;
+}

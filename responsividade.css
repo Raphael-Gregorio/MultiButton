@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+div {
+    width: 350px;
+    height: 350px;
+    background-color: aqua;
+}
+
+@media screen and (max-width: 600px) and (orientation:landscape) {
+    div {
+        background-color: brown;
+        width: 100px;
+        height: 100px;
+    }
+}
