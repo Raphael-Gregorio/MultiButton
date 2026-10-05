@@ -1,0 +1,34 @@
+h1 {
+    background-color: red;
+    color: darkgreen;
+    text-shadow: 15px 15px 3px black;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2 {
+    background-color: darkmagenta;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px;
+}
+
+#p01 {
+    font-size: 20px;
+    background-color: aqua;
+    color: rgba(255, 123, 0, 0.952);
+    text-decoration: underline;
+    line-height: 25px;
+    text-align: center;
+}
+
+#p02 {
+    background-color: aqua;
+    font-size: 20px;
+    color: rgba(255, 123, 0, 0.952);
+    text-decoration: overline;
+    line-height: 25px;
+    text-align: center;
+}
