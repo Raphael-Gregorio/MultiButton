@@ -1,0 +1,85 @@
+#div05 {
+    color: crimson;
+    background-color: antiquewhite;
+    width: 98vw;
+    height: 15vh;
+
+}
+
+#div06 {
+    font-size: xx-large;
+    color: blue;
+    background-color: chartreuse;
+    width: 98vw;
+    height: 10vh;
+
+}
+
+button {
+    border-color: blueviolet;
+    border-radius: 100px;
+    background-color: aqua;
+}
+
+div {
+    border-color: blue;
+    height: 40vh;
+    width: 98vw;
+    background-color: pink;
+
+
+}
+
+#div01 {
+    border-color: blue;
+    height: 40vh;
+    width: 98vw;
+    background-color: powderblue;
+    color: blueviolet;
+    font-size: 17px;
+
+}
+
+#div02 {
+    height: 100px;
+    width: 130px;
+    background-color: aquamarine;
+    margin-left: 1200px;
+    color: rgb(0, 204, 255);
+    font-size: 20px;
+}
+
+#div03 {
+    background-color: blueviolet;
+    height: 100px;
+    width: 1200px;
+    margin-top: -100px;
+    color: rgb(115, 255, 0);
+    font-size: 20px;
+
+}
+
+#div04 {
+    background-color: aqua;
+    font-size: xx-large;
+    font-style: oblique;
+    width: 50vw;
+    height:40vh ;
+     
+
+}
+#div07 {
+    background-color: brown;
+    height: 40vh;
+    width: 47.2vw;
+    margin-left: 52%;
+    margin-top: -20.5%;
+    
+}
+ol {
+    color: brown;
+}
+#div08 {
+    color: blue;
+    font-size: 17px;
+}
